@@ -8,9 +8,7 @@ import org.springframework.security.config.annotation.method.configuration.Enabl
 @SpringBootApplication
 public class SpringSecurityDemoApplication {
 
-
 	public static void main(String[] args) {
 		SpringApplication.run(SpringSecurityDemoApplication.class, args);
 	}
-
 }
